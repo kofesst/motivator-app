@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Мотиватор</string>
+
+    <string name="error__empty_field">Необходимо заполнить!</string>
+    <string name="error__small_length">Минимум %d симв.</string>
+    <string name="error__long_length">Максимум %d симв.</string>
+    <string name="error__invalid_email">Некорректный email!</string>
+    <string name="error__password_contains_space">В пароле не должно быть пробелов!</string>
+    <string name="error__password_need_digit">Нужна хотя бы одна цифра!</string>
+    <string name="error__password_need_letter">Нужна хотя бы одна буква!</string>
+    <string name="error__email_does_not_exist">Пользователя не существует!</string>
+    <string name="error__email_already_exists">Данный email уже используется!</string>
+    <string name="error__incorrect_password">Некорректный пароль!</string>
+
+    <string name="title__feed">Лента</string>
+    <string name="title__profile_overview">Профиль</string>
+    <string name="title__auth">Авторизация</string>
+    <string name="title__edit_profile">Изменение профиля</string>
+    <string name="title__post_overview">Информация о записи</string>
+    <string name="title__create_post">Новая запись</string>
+
+    <string name="action__sign_in">Войти</string>
+    <string name="action__sign_up">Зарегистрироваться</string>
+    <string name="action__create_post">Создать запись</string>
+    <string name="action__edit_profile">Изменить профиль</string>
+    <string name="action__save_profile">Сохранить изменения</string>
+    <string name="action__upload_avatar">Загрузить изображение</string>
+    <string name="action__remove_avatar">Удалить изображение</string>
+    <string name="action__complete_post">Завершить дело</string>
+    <string name="action__complete_expired_post">Удалить устаревшую запись</string>
+    <string name="action__remember_session">Запомнить меня</string>
+    <string name="action__clear_session">Выход из профиля</string>
+
+    <string name="label__email">Email</string>
+    <string name="label__password">Пароль</string>
+    <string name="label__first_name">Имя</string>
+    <string name="label__last_name">Фамилия</string>
+    <string name="label__post_title">Что за мотивация?</string>
+    <string name="label__post_description">Вкратце опишите свою мотивацию</string>
+    <string name="label__profile_avatar">Фотография профиля</string>
+
+    <string name="snackbar__cannot_get_post_id">Не удалось загрузить информацию</string>
+    <string name="snackbar__need_storage_permission">Не удалось получить доступ к хранилищу</string>
+    <string name="snackbar__post_completed">Поздравляем! Мотивация выполнена</string>
+
+    <string name="case__posts_first">Запись</string>
+    <string name="case__posts_second">Записи</string>
+    <string name="case__posts_third">Записей</string>
+
+    <string name="case__rating_first">Рейтинг</string>
+    <string name="case__rating_second">Рейтинг</string>
+    <string name="case__rating_third">Рейтинг</string>
+
+    <string name="difficulty__easy">Легко</string>
+    <string name="difficulty__normal">Средне</string>
+    <string name="difficulty__hard">Тяжело</string>
+
+    <string name="auth_welcome">Добро пожаловать!</string>
+    <string name="auth_subtitle">
+        Чтобы продолжить, войдите в свой профиль или создайте новый
+    </string>
+    <string name="profile_posts">Все записи</string>
+    <string name="already_has_profile">Уже есть профиль?</string>
+    <string name="has_not_profile">Ещё нет профиля?</string>
+    <string name="there_is_empty">Кажется, здесь пусто!</string>
+    <string name="post_status__waiting">Актуально до %s</string>
+    <string name="post_status_completed">Успешно выполнено</string>
+    <string name="post_status_expired">Не было выполнено</string>
+    <string name="checking_for_session">Проверка сессии…</string>
+</resources>
